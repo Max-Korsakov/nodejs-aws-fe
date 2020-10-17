@@ -8,7 +8,7 @@ Bucket with static (restricted access)
 
 CloudFront Adress
 
-[d10wde35lb92nm.cloudfront.net](d10wde35lb92nm.cloudfront.net)
+[https://d10wde35lb92nm.cloudfront.net/](https://d10wde35lb92nm.cloudfront.net/)
 
 
 ## Available Scripts
