@@ -11,7 +11,7 @@
 #
 # Happy Coding!
 
-service: task-2-v-4
+service: task-2-v-5
 # app and org for use with dashboard.serverless.com
 #app: your-app-name
 #org: your-org-name
@@ -31,7 +31,7 @@ plugins:
 custom:
   ## Serverless-finch configuration
   client:
-    bucketName: task-2-v-4
+    bucketName: task-2-v-5
     distributionFolder: build
     indexDocument: index.html
     manageResources: false
