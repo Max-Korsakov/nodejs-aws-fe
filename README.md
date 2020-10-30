@@ -2,13 +2,9 @@
 
 ## AWS Data
 
-Bucket with static (restricted access)
-
-[http://task-2-v-4.s3-website-us-east-1.amazonaws.com/](http://task-2-v-4.s3-website-us-east-1.amazonaws.com/)
-
 CloudFront Adress
 
-[https://d10wde35lb92nm.cloudfront.net/](https://d10wde35lb92nm.cloudfront.net/)
+[https://d1j0a2cxkc2yn9.cloudfront.net/](https://d1j0a2cxkc2yn9.cloudfront.net/)
 
 
 ## Available Scripts
