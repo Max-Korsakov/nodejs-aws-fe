@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## AWS Data
+
+Bucket with static (restricted access)
+
+[http://task-2-v-4.s3-website-us-east-1.amazonaws.com/](http://task-2-v-4.s3-website-us-east-1.amazonaws.com/)
+
+CloudFront Adress
+
+[https://d10wde35lb92nm.cloudfront.net/](https://d10wde35lb92nm.cloudfront.net/)
+
 
 ## Available Scripts
 
