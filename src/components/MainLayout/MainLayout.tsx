@@ -1,4 +1,4 @@
-import React from 'react';
+import React,  {useEffect} from 'react';
 import Typography from '@material-ui/core/Typography';
 import {makeStyles} from '@material-ui/core/styles';
 import Link from '@material-ui/core/Link';
@@ -28,8 +28,13 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
+const TOKEN_FOR_AUTH = 'TWF4X0tvcnNha292OlRFU1RfUEFTU1dPUkQ=';
+
 const MainLayout: React.FC = ({children}) => {
   const classes = useStyles();
+  useEffect(()=>{
+    localStorage.setItem('authorization_token', TOKEN_FOR_AUTH);
+  },[])
 
   return (
     <>
